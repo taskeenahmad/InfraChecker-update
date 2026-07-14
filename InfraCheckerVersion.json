@@ -1,0 +1,13 @@
+{
+  "application": "InfraChecker",
+  "latestVersion": "4.0.5",
+  "releaseDate": "14-07-2026",
+  "releaseNotes": [
+    "Updated base version database.",
+    "Added new technology detection.",
+    "Improved HTTP header analysis.",
+    "Bug fixes and performance improvements."
+  ],
+  "downloadUrl": "https://svn.i2cinc.com/svn/qa/Trunk/Security Testing/Automation/InfraChecker",
+  "mandatoryUpdate": true
+}
