@@ -1,10 +1,8 @@
 {
   "application": "InfraChecker",
-  "latestVersion": "4.0.8",
-  "releaseDate": "15-07-2026",
+  "latestVersion": "4.0.9",
+  "releaseDate": "16-07-2026",
   "releaseNotes": [
-    "Updated base version database.",
-    "Added new technology detection.",
     "Improved HTTP header analysis.",
     "Bug fixes and performance improvements."
   ],
