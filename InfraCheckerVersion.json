@@ -1,9 +1,9 @@
 {
   "application": "InfraChecker",
-  "latestVersion": "4.0.9",
-  "releaseDate": "16-07-2026",
+  "latestVersion": "4.1.0",
+  "releaseDate": "17-07-2026",
   "releaseNotes": [
-    "Improved HTTP header analysis.",
+    "Improved CSP header rules.",
     "Bug fixes and performance improvements."
   ],
   "downloadUrl": "https://svn.i2cinc.com/svn/qa/Trunk/Security Testing/Automation/InfraChecker",
