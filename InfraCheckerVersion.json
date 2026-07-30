@@ -1,9 +1,9 @@
 {
   "application": "InfraChecker",
-  "latestVersion": "4.1.4",
+  "latestVersion": "4.1.5",
   "releaseDate": "30-07-2026",
   "releaseNotes": [
-    "Improved CSP header rules.",
+    "TLS certificate scan checks added.",
     "Bug fixes."
   ],
   "downloadUrl": "https://svn.i2cinc.com/svn/qa/Trunk/Security Testing/Automation/InfraChecker",
