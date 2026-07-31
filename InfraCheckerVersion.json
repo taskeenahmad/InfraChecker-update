@@ -1,6 +1,6 @@
 {
   "application": "InfraChecker",
-  "latestVersion": "4.1.5",
+  "latestVersion": "4.1.6",
   "releaseDate": "30-07-2026",
   "releaseNotes": [
     "TLS certificate scan checks added.",
