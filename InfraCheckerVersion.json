@@ -1,9 +1,8 @@
 {
   "application": "InfraChecker",
-  "latestVersion": "4.1.3",
-  "releaseDate": "30-07-2026",
+  "latestVersion": "4.1.7",
+  "releaseDate": "03-08-2026",
   "releaseNotes": [
-    "TLS certificate scan checks added.",
     "Bug fixes."
   ],
   "downloadUrl": "https://svn.i2cinc.com/svn/qa/Trunk/Security Testing/Automation/InfraChecker",
