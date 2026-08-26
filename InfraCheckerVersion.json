@@ -1,9 +1,10 @@
 {
   "application": "InfraChecker",
-  "latestVersion": "4.2.3",
-  "releaseDate": "21-08-2026",
+  "latestVersion": "4.2.4",
+  "releaseDate": "26-08-2026",
   "releaseNotes": [
-    "improved detection of headers for HTTP protocol."
+    "improved detection of headers for HTTP protocol.",
+    "Bug Fixes."
   ],
   "downloadUrl": "https://svn.i2cinc.com/svn/qa/Trunk/Security Testing/Automation/InfraChecker",
   "mandatoryUpdate": true
