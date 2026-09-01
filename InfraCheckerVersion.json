@@ -1,6 +1,6 @@
 {
   "application": "InfraChecker",
-  "latestVersion": "4.2.7",
+  "latestVersion": "4.2.8",
   "releaseDate": "01-09-2026",
   "releaseNotes": [
     "improved detection of headers for HTTP protocol.",
