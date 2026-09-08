@@ -1,6 +1,6 @@
 {
   "application": "InfraChecker",
-  "latestVersion": "4.3.3",
+  "latestVersion": "4.3.4",
   "releaseDate": "08-09-2026",
   "releaseNotes": [
     "Http headers detection enhanced.",
