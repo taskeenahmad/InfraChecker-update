@@ -1,12 +1,11 @@
 {
   "application": "InfraChecker",
-  "latestVersion": "4.3.4",
-  "releaseDate": "08-09-2026",
+  "latestVersion": "4.3.8",
+  "releaseDate": "09-10-2026",
   "releaseNotes": [
-    "Http headers detection enhanced.",
-    "WAF detection enhanced.",
-    "Bug Fixes.",
-    "Logging improved."
+    "CSP header detection support added as per Bitsight.",
+    "Support added for HTTP to HTTPS detection.",
+    "Bug Fixes and improvements."
   ],
   "downloadUrl": "https://svn.i2cinc.com/svn/qa/Trunk/Security Testing/Automation/InfraChecker",
   "mandatoryUpdate": true
