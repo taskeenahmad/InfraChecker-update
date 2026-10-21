@@ -1,6 +1,6 @@
 {
   "application": "InfraChecker",
-  "latestVersion": "4.3.8",
+  "latestVersion": "4.3.9",
   "releaseDate": "09-10-2026",
   "releaseNotes": [
     "CSP header detection support added as per Bitsight.",
